@@ -5,20 +5,23 @@ O VidFlow é uma plataforma de compartilhamento de vídeos.
 
 ![Captura de tela do Vidflow.](./vidflow.png)
 
-## 🔨 Funcionalidades do projeto
+## 🔨 Funcionalidades
+- [x] `Busca de vídeos`: Vídeos são buscados por uma API
+- [x] `Modos`: Possui modo escuro e modo claro
+- [X] `Botôes`: Possuem botões interativos
 
-Atualmente, o projeto base já está pronto: os vídeos são buscados de uma API, possui modo escuro e os botões interativos funcionam.
-
-No entanto, o projeto possui problemas de acessibilidade, e iremos utilizar o NVDA para indetificá-los e corrigi-los.
-
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Tecnologias utilizadas
 
 - HTML, CSS e JavaScript
 - JSON Server
 
 ## Link do Figma
 
-[Acesse o Figma do Vidflow](https://www.figma.com/file/UbPLETdOLAuQk6G09HUtnZ/VidFlow-%7C-Acessibilidade?node-id=0%3A1&mode=dev).
+[Acesse o Figma do Vidflow](https://www.figma.com/file/UbPLETdOLAuQk6G09HUtnZ/VidFlow-%7C-Acessibilidade?node-id=0%3A1&mode=dev)
+
+## 👨‍💻 Colaboradores
+
+| [Gabriel Bolonhez Felipe](https://github.com/Gabolonhez) |
 
 ## 🛠️ Abrir e rodar o projeto
 
