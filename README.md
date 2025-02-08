@@ -1,19 +1,20 @@
-
 # VidFlow
-
-O VidFlow é uma plataforma de compartilhamento de vídeos.
-
 ![Captura de tela do Vidflow.](./vidflow.png)
 
-## 🔨 Funcionalidades
-- [x] `Busca de vídeos`: Vídeos são buscados por uma API
-- [x] `Modos`: Possui modo escuro e modo claro
-- [X] `Botôes`: Possuem botões interativos
+## 📑 Descrição
+O VidFlow é uma plataforma de compartilhamento de vídeos.
 
-## ✔️ Tecnologias utilizadas
+## 🎯 Funcionalidades
+- [x] Busca de vídeos por uma API
+- [x] Possui do escuro e modo claro
+- [X] Possui botões interativos
 
-- HTML, CSS e JavaScript
-- JSON Server
+## 💻 Tecnologias 
+
+- `HTML`
+- `CSS`
+- `JavaScript`
+- `JSON Server`
 
 ## Link do Figma
 
